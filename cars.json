@@ -1,0 +1,68 @@
+{
+    "cars": [
+        {
+            "id": 1,
+            "brand": "Toyota",
+            "model": "Camry",
+            "year": "2022",
+            "price": 50000000,
+            "fuel": 20
+        },
+        {
+            "id": 2,
+            "brand": "Honda",
+            "model": "Civic",
+            "year": "2021",
+            "price": 35000000,
+            "fuel": 17
+        },
+        {
+            "id": 3,
+            "brand": "Ford",
+            "model": "Mustang",
+            "year": "2020",
+            "price": 180000000,
+            "fuel": 28
+        },
+        {
+            "id": 4,
+            "brand": "Chevrolet",
+            "model": "Camaro",
+            "year": "2019",
+            "price": 200000000,
+            "fuel": 25
+        },
+        {
+            "id": 5,
+            "brand": "Nissan",
+            "model": "Altima",
+            "year": "2018",
+            "price": 40000000,
+            "fuel": 22
+        },
+        {
+            "id": 6,
+            "brand": "Mitsubishi",
+            "model": "Lancer Evo",
+            "year": "2025",
+            "price": 350000000,
+            "fuel": 45
+        },
+        {
+            "id": 7,
+            "brand": "Renault",
+            "model": "Clio",
+            "year": "2012",
+            "price": 25000000,
+            "fuel": 46
+        },
+        {
+            "id": 8,
+            "brand": "BMW",
+            "model": "X7",
+            "year": "2019",
+            "price": 360000000,
+            "fuel": 56
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "name": "jat/taller-php-intermedio",
+    "autoload": {
+        "psr-4": {
+            "Taller\\Controllers\\": "src/Controllers",
+            "Taller\\Models\\": "src/Models/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Julián",
+            "email": "67717926+Jat294@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "^3.7",
+        "respect/validation": "^2.3",
+        "tecnickcom/tcpdf": "^6.7"
+    }
+}
